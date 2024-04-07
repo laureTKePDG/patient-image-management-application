@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ProfilMedecin.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/QuestionArchiveUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/HeisView.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/EditPatientInfoUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/AboutPageUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/RegisterPatientUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/CodePUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ModifQuestionUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ModifQuestionMedecinUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ListePUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ConnexionUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/medecin/table.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ConsultNewPatientView.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Archive.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/InfoPatientUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/MedecinDashboardUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/main/Main.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ConsultNewOldPatientUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Medecin.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Examen.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/YouAre.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/medecin/ListArchive.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/PatientDashboardUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Image.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/ConnexionBD.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Consultation.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Patient.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/ListePatientUi.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/model/Discussion.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/DashboardMedecin.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/RegisterMedecin.java</file>
+            <file>file:/C:/Users/pak/Documents/NetBeansProjects/Main_Projet_Of_Gestion_des_Imageries_POO/src/ui/medecin/NewArchive.java</file>
+        </group>
+    </open-files>
+</project-private>
